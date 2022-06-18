@@ -1,7 +1,6 @@
 {
   "name": "ls",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,12 +13,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.17.0",
-    "husky": "^8.0.0"
-  },
-  "dependencies": {
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.6.2"
-  }
+    "prettier": "^2.7.1",
+    "eslint": "^8.18.0",
+    "husky": "^8.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisoft2018/js-module-pattern.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/elisoft2018/js-module-pattern/issues"
+  },
+  "homepage": "https://github.com/elisoft2018/js-module-pattern#readme",
+  "description": ""
 }
