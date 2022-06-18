@@ -24,7 +24,6 @@ getResult.addEventListener("click", (event) => {
 
   const resultSum = sumar(parsedQuantityOne, parsedQuantityTwo);
   result.innerHTML = resultSum;
-  console.log(resultSum);
   return;
 });
 
