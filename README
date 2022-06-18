@@ -1,0 +1,11 @@
+-1er Nivel
+    -Manejo de eslint con prettier (VSC)
+    -Carpeta .VsCode/Settings.json
+2do Nivel
+    -Scritp package.jso 
+        - $ npm run lint
+3er Nivel
+    -Husky (Pre-Commit,Post-Commit)
+        -Cuidar, atraves de git hooks, el histortial del repositorio
+4to Nivel
+    -Git Hub Actions

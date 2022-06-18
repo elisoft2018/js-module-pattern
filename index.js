@@ -12,7 +12,7 @@ const result = document.querySelector("#result");
 const getResult = document.querySelector("#getResult");
 const form = document.querySelector("#form");
 // EVENTOS
-getResult.addEventListnener("click", (event) => {
+getResult.addEventListener("click", (event) => {
   //DETENER LA RECARGA DE LA PAGINA POR DEFECTO
   event.preventDefault();
 
